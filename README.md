@@ -1,7 +1,3 @@
-Here's a concise README template for your collaborative book recommendation system project:
-
----
-
 # Collaborative Book Recommendation System
 
 A collaborative book recommendation system built using Python and Streamlit. This system suggests books to users based on preferences, leveraging collaborative filtering techniques to recommend books that similar users have enjoyed.
